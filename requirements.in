@@ -4,3 +4,4 @@ tensorflow
 keras
 h5py
 matplotlib
+pip-tools
